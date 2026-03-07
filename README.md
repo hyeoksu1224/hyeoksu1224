@@ -33,10 +33,10 @@
 ## 📜 Certificates
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQLD-003366?style=flat-square"/>
-<img src="https://img.shields.io/badge/정보처리기사-0052CC?style=flat-square"/>
-<img src="https://img.shields.io/badge/TOEIC-1F8ACB?style=flat-square"/>
-<img src="https://img.shields.io/badge/TOEIC_Speaking-FF6F00?style=flat-square"/>
+//<img src="https://img.shields.io/badge/SQLD-003366?style=flat-square"/>
+//<img src="https://img.shields.io/badge/정보처리기사-0052CC?style=flat-square"/>
+//<img src="https://img.shields.io/badge/TOEIC-1F8ACB?style=flat-square"/>
+//<img src="https://img.shields.io/badge/TOEIC_Speaking-FF6F00?style=flat-square"/>
 
 </div>
 
